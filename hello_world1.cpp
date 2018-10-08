@@ -2,6 +2,6 @@
 
 int main()
 {
-cout<< "Hello world-duniya";
+cout<< "Hello world-dhuniya";
 return 0;
 }
